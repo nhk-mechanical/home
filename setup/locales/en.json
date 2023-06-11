@@ -1,0 +1,28 @@
+{
+    "navbar": {
+        "product": "Product",
+        "technology": "Technology",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "tech": {
+        "prod1": "Material: A6061\nDimension: dia 40 x 127mm",
+        "prod2": "Material: A6061, SUS304, POM, SKD11, S45C, SCM440."
+    },
+    "about": {
+        "me": {
+            "header": "Founder's History",
+            "2006": "To Japan to work under the Engineer recruiment program,\nIn Suzumogiken Company, field of activity: Aluminum casting, CNC machining.\nPosition: Official Employee",
+            "2011": "Go back Vietnam to wok\nIn Brother Saigon Industrial Company, field of acitivity: Quality imporevement in Production Department.\nPosition: Thechnical Manager",
+            "2013": "Worked at Satoshoji Vietnam Company, field of activity: Quality control of machanical products in the buying and selling process.\nPosition: Assistant to Director",
+            "2015": "IHI Corporation Company (Ho Chi Minh City Branch), field of acitivity: Connection of procurement within IHI Corporation.\nPosition: Assistant Director",
+            "2017": "Working as Freelancer.\nJapanese translator, Business connection, CNC processing and turning"
+        },
+        "company": {
+            "header": "Company's History",
+            "2022_1": "Established NHK MECHANICAL Company, field of activity: Service, Trading and Manufacturing the mechanical products",
+            "2022_2": "Customer: Dong Do Chain Vina Company"
+        }
+    },
+    "contact": "NHK MECHANICAL CO., LTD\nPham Viet Hung (Director)\nTel: (+84) 093 252 1250 (Zalo, Line)\nEmail: nhk.mechanical@gmail.com\nAddress: 33/9A Road No.8, Quarter 1, Linh Xuan Ward, Thu Duc city, Ho Chi Minh city"
+}
